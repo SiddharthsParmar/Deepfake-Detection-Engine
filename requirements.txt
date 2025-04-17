@@ -1,0 +1,7 @@
+torch
+torchvision
+fastapi
+uvicorn
+tqdm
+opencv-python
+Pillow
